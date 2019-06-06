@@ -1,5 +1,3 @@
 # lms
-A Twitter like web application where the users can write, edit blog posts
-and read posts written by other users. A user must Register/Login before
-writing posts. Also users can update their profile information and profile
-picture.
+A Leave management system GUI where employees can create accounts, login, request for leaves and check status of their leaves.
+Also managers can login, check the leave requests and accept/reject the requests made by employees.
